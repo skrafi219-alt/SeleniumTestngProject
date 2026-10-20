@@ -1,0 +1,17 @@
+
+# Maven generated files
+target/
+test-output/
+
+# Eclipse settings
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
